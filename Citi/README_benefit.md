@@ -14,7 +14,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Chairman](<Credit Card\Personal\Chairman.bmp>) Chairman |  |  |
+| ![Chairman](<Credit Card/Personal/Chairman.bmp>) Chairman |  |  |
 
 ### Citi AAdvantage Executive
 - Sign-up Bonus: 100k Miles after $10k spend
@@ -24,7 +24,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![AAdvantage Executive](<Credit Card\Personal\AAdvantage Executive.jpeg>) AAdvantage Executive |  |  |
+| ![AAdvantage Executive](<Credit Card/Personal/AAdvantage Executive.jpeg>) AAdvantage Executive |  |  |
 
 ### Citi AAdvantage Globe
 - Sign-up Bonus: (New Card) Bonus Miles vary
@@ -42,7 +42,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![AAdvantage MileUp](<Credit Card\Personal\AAdvantage MileUp.png>) AAdvantage MileUp |  |  |
+| ![AAdvantage MileUp](<Credit Card/Personal/AAdvantage MileUp.png>) AAdvantage MileUp |  |  |
 
 ### Citi AAdvantage Platinum Select
 - Sign-up Bonus: 80k Miles after $4k spend
@@ -52,7 +52,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![AAdvantage Platinum Select](<Credit Card\Personal\AAdvantage Platinum Select.jpg>) AAdvantage Platinum Select |  |  |
+| ![AAdvantage Platinum Select](<Credit Card/Personal/AAdvantage Platinum Select.jpg>) AAdvantage Platinum Select |  |  |
 
 ### Citi AT&T Points Plus
 - Sign-up Bonus: $100 after $1k spend
@@ -65,12 +65,12 @@ No images available.
 ### Citi Costco Anywhere
 - Sign-up Bonus: None
 - Earning Rate: 4x Gas (up to $7k); 3x Dining/Travel
-- Annual Fee: $0\*
+- Annual Fee: $0/*
 - Foreign Transaction Fee: No
 
 | | | |
 |:---:|:---:|:---:|
-| ![Costco Anywhere](<Credit Card\Personal\Costco Anywhere.png>) Costco Anywhere |  |  |
+| ![Costco Anywhere](<Credit Card/Personal/Costco Anywhere.png>) Costco Anywhere |  |  |
 
 ### Citi Custom Cash
 - Sign-up Bonus: $200 (20k points) after $1.5k spend
@@ -88,7 +88,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Diamond Preferred](<Credit Card\Personal\Diamond Preferred.bmp>) Diamond Preferred | ![Thank You Preferred](<Credit Card\Personal\Thank You Preferred.jpg>) Thank You Preferred |  |
+| ![Diamond Preferred](<Credit Card/Personal/Diamond Preferred.bmp>) Diamond Preferred | ![Thank You Preferred](<Credit Card/Personal/Thank You Preferred.jpg>) Thank You Preferred |  |
 
 ### Citi Double Cash
 - Sign-up Bonus: $200 after $1.5k spend
@@ -98,7 +98,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Double Cash 2024](<Credit Card\Personal\Double Cash 2024.jpeg>) Double Cash 2024 | ![Double Cash Old](<Credit Card\Personal\Double Cash Old.png>) Double Cash Old |  |
+| ![Double Cash 2024](<Credit Card/Personal/Double Cash 2024.jpeg>) Double Cash 2024 | ![Double Cash Old](<Credit Card/Personal/Double Cash Old.png>) Double Cash Old |  |
 
 ### Citi Secured Mastercard
 - Sign-up Bonus: None
@@ -135,7 +135,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Strata Elite 2025](<Credit Card\Personal\Strata Elite 2025.jpeg>) Strata Elite 2025 |  |  |
+| ![Strata Elite 2025](<Credit Card/Personal/Strata Elite 2025.jpeg>) Strata Elite 2025 |  |  |
 
 ### Citi Strata Premier
 - Sign-up Bonus: 60k - 80k Points after $4k spend
@@ -146,49 +146,49 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Premier](<Credit Card\Personal\Premier.png>) Premier | ![Premier Pre 2021](<Credit Card\Personal\Premier Pre 2021.png>) Premier Pre 2021 | ![Strata Premier](<Credit Card\Personal\Strata Premier.jpeg>) Strata Premier |
+| ![Premier](<Credit Card/Personal/Premier.png>) Premier | ![Premier Pre 2021](<Credit Card/Personal/Premier Pre 2021.png>) Premier Pre 2021 | ![Strata Premier](<Credit Card/Personal/Strata Premier.jpeg>) Strata Premier |
 
 ### Citigold Debit
 - (No details available)
 
 | | | |
 |:---:|:---:|:---:|
-| ![Citigold Debit](<Debit Card\Personal\Citigold Debit.png>) Citigold Debit | ![Citigold Private Client](<Debit Card\Personal\Citigold Private Client.jpeg>) Citigold Private Client | ![Debit](<Debit Card\Personal\Debit.jpeg>) Debit |
+| ![Citigold Debit](<Debit Card/Personal/Citigold Debit.png>) Citigold Debit | ![Citigold Private Client](<Debit Card/Personal/Citigold Private Client.jpeg>) Citigold Private Client | ![Debit](<Debit Card/Personal/Debit.jpeg>) Debit |
 
 ### COCO
 - (No details available)
 
 | | | |
 |:---:|:---:|:---:|
-| ![COCO](<Debit Card\Personal\COCO.jpeg>) COCO |  |  |
+| ![COCO](<Debit Card/Personal/COCO.jpeg>) COCO |  |  |
 
 ### Dividend
 - (No details available)
 
 | | | |
 |:---:|:---:|:---:|
-| ![Dividend](<Credit Card\Personal\Dividend.png>) Dividend |  |  |
+| ![Dividend](<Credit Card/Personal/Dividend.png>) Dividend |  |  |
 
 ### Expedia Rewards
 - (No details available)
 
 | | | |
 |:---:|:---:|:---:|
-| ![Expedia Rewards](<Credit Card\Personal\Expedia Rewards.bmp>) Expedia Rewards | ![Rewards+](<Credit Card\Personal\Rewards+.png>) Rewards+ |  |
+| ![Expedia Rewards](<Credit Card/Personal/Expedia Rewards.bmp>) Expedia Rewards | ![Rewards+](<Credit Card/Personal/Rewards+.png>) Rewards+ |  |
 
 ### Prestige
 - Coupon (会员年度, $250): 按 12 月账单日分界，旅行类
 
 | | | |
 |:---:|:---:|:---:|
-| ![Prestige](<Credit Card\Personal\Prestige.png>) Prestige |  |  |
+| ![Prestige](<Credit Card/Personal/Prestige.png>) Prestige |  |  |
 
 ### Strate 2025
 - (No details available)
 
 | | | |
 |:---:|:---:|:---:|
-| ![Strate 2025](<Credit Card\Personal\Strate 2025.jpeg>) Strate 2025 |  |  |
+| ![Strate 2025](<Credit Card/Personal/Strate 2025.jpeg>) Strate 2025 |  |  |
 
 ## Business Cards
 
@@ -200,14 +200,14 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![CitiBusiness AAdvantage](<Credit Card\Personal\CitiBusiness AAdvantage.jpeg>) CitiBusiness AAdvantage | ![CitiBusiness AAdvantage Platinum Select](<Credit Card\Personal\CitiBusiness AAdvantage Platinum Select.png>) CitiBusiness AAdvantage Platinum Select |  |
+| ![CitiBusiness AAdvantage](<Credit Card/Personal/CitiBusiness AAdvantage.jpeg>) CitiBusiness AAdvantage | ![CitiBusiness AAdvantage Platinum Select](<Credit Card/Personal/CitiBusiness AAdvantage Platinum Select.png>) CitiBusiness AAdvantage Platinum Select |  |
 
 ### Citi Costco Business
 - Sign-up Bonus: None
 - Earning Rate: 4x Gas (up to $7k); 3x Dining/Travel
-- Annual Fee: $0\*
+- Annual Fee: $0/*
 - Foreign Transaction Fee: No
 
 | | | |
 |:---:|:---:|:---:|
-| ![Costco Anywhere Business](<Credit Card\Personal\Costco Anywhere Business.bmp>) Costco Anywhere Business |  |  |
+| ![Costco Anywhere Business](<Credit Card/Personal/Costco Anywhere Business.bmp>) Costco Anywhere Business |  |  |

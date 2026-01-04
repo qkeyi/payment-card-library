@@ -26,7 +26,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Amazon (not prime)](<Credit Card\Personal\Amazon (not prime).jpeg>) Amazon (not prime) | ![Amazon Prime](<Credit Card\Personal\Amazon Prime.png>) Amazon Prime | ![Amazon Prime (Whole Foods)](<Credit Card\Personal\Amazon Prime (Whole Foods).png>) Amazon Prime (Whole Foods) |
+| ![Amazon (not prime)](<Credit Card/Personal/Amazon (not prime).jpeg>) Amazon (not prime) | ![Amazon Prime](<Credit Card/Personal/Amazon Prime.png>) Amazon Prime | ![Amazon Prime (Whole Foods)](<Credit Card/Personal/Amazon Prime (Whole Foods).png>) Amazon Prime (Whole Foods) |
 
 ### Chase British Airways (BA)
 - Sign-up Bonus: 100k Avios after $5k spend
@@ -44,7 +44,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Disney](<Credit Card\Personal\Disney.jpeg>) Disney | ![Disney Midnight](<Debit Card\Personal\Disney Midnight.png>) Disney Midnight |  |
+| ![Disney](<Credit Card/Personal/Disney.jpeg>) Disney | ![Disney Midnight](<Debit Card/Personal/Disney Midnight.png>) Disney Midnight |  |
 
 ### Chase Disney Rewards
 - Sign-up Bonus: $250 after $500 spend
@@ -81,7 +81,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Freedom](<Credit Card\Personal\Freedom.png>) Freedom | ![Freedom Flex](<Credit Card\Personal\Freedom Flex.png>) Freedom Flex |  |
+| ![Freedom](<Credit Card/Personal/Freedom.png>) Freedom | ![Freedom Flex](<Credit Card/Personal/Freedom Flex.png>) Freedom Flex |  |
 
 ### Chase Freedom Rise
 - Sign-up Bonus: $25 after Autopay
@@ -99,7 +99,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Freedom Unlimited](<Credit Card\Personal\Freedom Unlimited.png>) Freedom Unlimited |  |  |
+| ![Freedom Unlimited](<Credit Card/Personal/Freedom Unlimited.png>) Freedom Unlimited |  |  |
 
 ### Chase Iberia (IB)
 - Sign-up Bonus: 75k Avios after $5k spend
@@ -118,14 +118,14 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![IHG Gold](<Credit Card\Personal\IHG Gold.png>) IHG Gold | ![IHG One Rewards Premier](<Credit Card\Personal\IHG One Rewards Premier.png>) IHG One Rewards Premier |  |
+| ![IHG Gold](<Credit Card/Personal/IHG Gold.png>) IHG Gold | ![IHG One Rewards Premier](<Credit Card/Personal/IHG One Rewards Premier.png>) IHG One Rewards Premier |  |
 
 ### Chase IHG Select (Old)
 - Annual Fee: $49
 
 | | | |
 |:---:|:---:|:---:|
-| ![IHG One Rewards Select (old)](<Credit Card\Personal\IHG One Rewards Select (old).png>) IHG One Rewards Select (old) |  |  |
+| ![IHG One Rewards Select (old)](<Credit Card/Personal/IHG One Rewards Select (old).png>) IHG One Rewards Select (old) |  |  |
 
 ### Chase IHG Traveler
 - Sign-up Bonus: 80k after $2k spend
@@ -151,7 +151,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Marriott Bonvoy Bold](<Credit Card\Personal\Marriott Bonvoy Bold.png>) Marriott Bonvoy Bold |  |  |
+| ![Marriott Bonvoy Bold](<Credit Card/Personal/Marriott Bonvoy Bold.png>) Marriott Bonvoy Bold |  |  |
 
 ### Chase Marriott Bonvoy Boundless
 - Sign-up Bonus: 3 Free Nights (50k ea)
@@ -161,7 +161,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Marriott Bonvoy Boundless 2023](<Credit Card\Personal\Marriott Bonvoy Boundless 2023.png>) Marriott Bonvoy Boundless 2023 | ![Marriott Bonvoy Boundless old](<Credit Card\Personal\Marriott Bonvoy Boundless old.png>) Marriott Bonvoy Boundless old |  |
+| ![Marriott Bonvoy Boundless 2023](<Credit Card/Personal/Marriott Bonvoy Boundless 2023.png>) Marriott Bonvoy Boundless 2023 | ![Marriott Bonvoy Boundless old](<Credit Card/Personal/Marriott Bonvoy Boundless old.png>) Marriott Bonvoy Boundless old |  |
 
 ### Chase Marriott Bonvoy Bountiful
 - Sign-up Bonus: 85k after $4k spend
@@ -185,7 +185,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Ritz-Carlton](<Credit Card\Personal\Ritz-Carlton.png>) Ritz-Carlton |  |  |
+| ![Ritz-Carlton](<Credit Card/Personal/Ritz-Carlton.png>) Ritz-Carlton |  |  |
 
 ### Chase Sapphire
 - Earning Rate: 2x Dining/Travel via Portal
@@ -202,7 +202,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Sapphire Preferred](<Credit Card\Personal\Sapphire Preferred.png>) Sapphire Preferred | ![Sapphire Preferred 2020](<Credit Card\Personal\Sapphire Preferred 2020.png>) Sapphire Preferred 2020 |  |
+| ![Sapphire Preferred](<Credit Card/Personal/Sapphire Preferred.png>) Sapphire Preferred | ![Sapphire Preferred 2020](<Credit Card/Personal/Sapphire Preferred 2020.png>) Sapphire Preferred 2020 |  |
 
 ### Chase Sapphire Reserve (CSR)
 - Sign-up Bonus: 125k after $4k spend
@@ -218,7 +218,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Sapphire Reserve](<Credit Card\Personal\Sapphire Reserve.png>) Sapphire Reserve |  |  |
+| ![Sapphire Reserve](<Credit Card/Personal/Sapphire Reserve.png>) Sapphire Reserve |  |  |
 
 ### Chase Slate Edge
 - Sign-up Bonus: None
@@ -236,9 +236,9 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Southwest Plus](<Credit Card\Personal\Southwest Plus.png>) Southwest Plus | ![United Mileage Plus](<Credit Card\Personal\United Mileage Plus.png>) United Mileage Plus | ![United Mileage Plus CLUB](<Credit Card\Personal\United Mileage Plus CLUB.jpeg>) United Mileage Plus CLUB |
-| ![United Mileage Plus Explorer](<Credit Card\Personal\United Mileage Plus Explorer.png>) United Mileage Plus Explorer | ![United Mileage Plus Gateway](<Credit Card\Personal\United Mileage Plus Gateway.png>) United Mileage Plus Gateway | ![United Mileage Plus Gateway 2024](<Credit Card\Personal\United Mileage Plus Gateway 2024.jpeg>) United Mileage Plus Gateway 2024 |
-| ![United Mileage Plus Quest](<Credit Card\Personal\United Mileage Plus Quest.png>) United Mileage Plus Quest | ![United Mileage Plus Quest 2024](<Credit Card\Personal\United Mileage Plus Quest 2024.jpeg>) United Mileage Plus Quest 2024 |  |
+| ![Southwest Plus](<Credit Card/Personal/Southwest Plus.png>) Southwest Plus | ![United Mileage Plus](<Credit Card/Personal/United Mileage Plus.png>) United Mileage Plus | ![United Mileage Plus CLUB](<Credit Card/Personal/United Mileage Plus CLUB.jpeg>) United Mileage Plus CLUB |
+| ![United Mileage Plus Explorer](<Credit Card/Personal/United Mileage Plus Explorer.png>) United Mileage Plus Explorer | ![United Mileage Plus Gateway](<Credit Card/Personal/United Mileage Plus Gateway.png>) United Mileage Plus Gateway | ![United Mileage Plus Gateway 2024](<Credit Card/Personal/United Mileage Plus Gateway 2024.jpeg>) United Mileage Plus Gateway 2024 |
+| ![United Mileage Plus Quest](<Credit Card/Personal/United Mileage Plus Quest.png>) United Mileage Plus Quest | ![United Mileage Plus Quest 2024](<Credit Card/Personal/United Mileage Plus Quest 2024.jpeg>) United Mileage Plus Quest 2024 |  |
 
 ### Chase Southwest Premier
 - Sign-up Bonus: 50k after $1k spend
@@ -256,7 +256,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Southwest Priority](<Credit Card\Personal\Southwest Priority.png>) Southwest Priority |  |  |
+| ![Southwest Priority](<Credit Card/Personal/Southwest Priority.png>) Southwest Priority |  |  |
 
 ### Chase UA Club
 - Sign-up Bonus: 90k after $5k spend
@@ -305,21 +305,21 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![World of Hyatt](<Credit Card\Personal\World of Hyatt.png>) World of Hyatt |  |  |
+| ![World of Hyatt](<Credit Card/Personal/World of Hyatt.png>) World of Hyatt |  |  |
 
 ### Debit Card
 - (No details available)
 
 | | | |
 |:---:|:---:|:---:|
-| ![Debit Card](<Debit Card\Personal\Debit Card.png>) Debit Card |  |  |
+| ![Debit Card](<Debit Card/Personal/Debit Card.png>) Debit Card |  |  |
 
 ### Frozen
 - (No details available)
 
 | | | |
 |:---:|:---:|:---:|
-| ![Frozen](<Debit Card\Personal\Frozen.png>) Frozen |  |  |
+| ![Frozen](<Debit Card/Personal/Frozen.png>) Frozen |  |  |
 
 ### JP Morgan Reserve
 - Sign-up Bonus: (Invite Only - $5M+)
@@ -329,21 +329,21 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![J.P.Morgan](<Debit Card\Personal\J.P.Morgan.jpeg>) J.P.Morgan |  |  |
+| ![J.P.Morgan](<Debit Card/Personal/J.P.Morgan.jpeg>) J.P.Morgan |  |  |
 
 ### Private Client
 - (No details available)
 
 | | | |
 |:---:|:---:|:---:|
-| ![Private Client](<Debit Card\Personal\Private Client.png>) Private Client |  |  |
+| ![Private Client](<Debit Card/Personal/Private Client.png>) Private Client |  |  |
 
 ### Star Wars
 - (No details available)
 
 | | | |
 |:---:|:---:|:---:|
-| ![Star Wars](<Debit Card\Personal\Star Wars.png>) Star Wars | ![Star Wars new](<Debit Card\Personal\Star Wars new.jpeg>) Star Wars new |  |
+| ![Star Wars](<Debit Card/Personal/Star Wars.png>) Star Wars | ![Star Wars new](<Debit Card/Personal/Star Wars new.jpeg>) Star Wars new |  |
 
 ## Business Cards
 
@@ -376,7 +376,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Southwest Premier Business](<Credit Card\Personal\Southwest Premier Business.png>) Southwest Premier Business |  |  |
+| ![Southwest Premier Business](<Credit Card/Personal/Southwest Premier Business.png>) Southwest Premier Business |  |  |
 
 ### Chase Ink Business Unlimited
 - Sign-up Bonus: $750 after $6k spend
@@ -387,7 +387,7 @@ No images available.
 No images available.
 
 ### Hyatt Biz
-- Coupon (会员年度, $50\*2): Hyatt 酒店消费，分两次
+- Coupon (会员年度, $50/*2): Hyatt 酒店消费，分两次
 - Coupon (自然半年, $25): 需要注册，自动加到 UA Travel Bank
 
 No images available.

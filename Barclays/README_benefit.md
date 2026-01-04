@@ -11,21 +11,21 @@
 
 | | | |
 |:---:|:---:|:---:|
-| ![AAdvantage Aviator](<Credit Card\Personal\AAdvantage Aviator.png>) AAdvantage Aviator |  |  |
+| ![AAdvantage Aviator](<Credit Card/Personal/AAdvantage Aviator.png>) AAdvantage Aviator |  |  |
 
 ### Arrival
 - (No details available)
 
 | | | |
 |:---:|:---:|:---:|
-| ![Arrival](<Credit Card\Personal\Arrival.png>) Arrival |  |  |
+| ![Arrival](<Credit Card/Personal/Arrival.png>) Arrival |  |  |
 
 ### Avios
 - (No details available)
 
 | | | |
 |:---:|:---:|:---:|
-| ![Avios](<Credit Card\Personal\Avios.jpeg>) Avios |  |  |
+| ![Avios](<Credit Card/Personal/Avios.jpeg>) Avios |  |  |
 
 ### Barclays View™
 - Sign-up Bonus: (Product Change Only)
@@ -64,7 +64,7 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![JetBlue](<Credit Card\Personal\JetBlue.png>) JetBlue |  |  |
+| ![JetBlue](<Credit Card/Personal/JetBlue.png>) JetBlue |  |  |
 
 ### Lufthansa Miles & More
 - Sign-up Bonus: 50k - 80k Miles
@@ -79,21 +79,21 @@ No images available.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Premier](<Credit Card\Personal\Premier.jpeg>) Premier |  |  |
+| ![Premier](<Credit Card/Personal/Premier.jpeg>) Premier |  |  |
 
 ### Rewards
 - (No details available)
 
 | | | |
 |:---:|:---:|:---:|
-| ![Rewards](<Credit Card\Personal\Rewards.png>) Rewards |  |  |
+| ![Rewards](<Credit Card/Personal/Rewards.png>) Rewards |  |  |
 
 ### Uber
 - (No details available)
 
 | | | |
 |:---:|:---:|:---:|
-| ![Uber](<Credit Card\Personal\Uber.png>) Uber |  |  |
+| ![Uber](<Credit Card/Personal/Uber.png>) Uber |  |  |
 
 ### Upromise® World
 - Sign-up Bonus: $300 after $1k spend
