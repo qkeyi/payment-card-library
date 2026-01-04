@@ -1,5 +1,6 @@
 # Bank of America Cards
 
+## Personal Cards
 | | | |
 |:---:|:---:|:---:|
 | ![Alasak Atmos Ascent](<Credit Card\Personal\Alasak Atmos Ascent.jpeg>) Alasak Atmos Ascent | ![Alaska Airlines](<Credit Card\Personal\Alaska Airlines.jpg>) Alaska Airlines | ![Alaska Atmos Summit](<Credit Card\Personal\Alaska Atmos Summit.jpeg>) Alaska Atmos Summit |
@@ -12,3 +13,6 @@
 | ![Premium Rewards Elite](<Credit Card\Personal\Premium Rewards Elite.png>) Premium Rewards Elite | ![Susan G Komen](<Credit Card\Personal\Susan G Komen.jpg>) Susan G Komen | ![Travel Rewards](<Credit Card\Personal\Travel Rewards.png>) Travel Rewards |
 | ![U.S. Pride](<Credit Card\Personal\U.S. Pride.png>) U.S. Pride | ![UCI](<Credit Card\Personal\UCI.png>) UCI | ![University of Michigan](<Credit Card\Personal\University of Michigan.png>) University of Michigan |
 | ![UTAM](<Debit Card\Personal\UTAM.jpeg>) UTAM | ![WWF](<Credit Card\Personal\WWF.jpg>) WWF |  |
+
+## Business Cards
+No business cards available.
