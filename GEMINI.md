@@ -7,11 +7,10 @@ The primary purpose of this repository is to serve as a visual and data library 
 -   **Issuers:** Indicates the card issuer.
 -   **Card details:** Includes benefits, sign up bonus, annual fee, and more.
 -   **Card Images:** A vast collection of credit, debit, and gift card images.
--   **Documentation:** `README.md` files within each issuer's directory provide a quick-glance view of the card images available for that issuer.
+-   **Image Grid:** `README.md` files within each issuer's directory provide a quick-glance view of the card images available for that issuer.
+-   **Documentation:**  `Details.md` files within each issuer's directory provide general info of cards.
 -   **Database synchronization:** `serialization` folder contains serialized data of cards, which can be used for database reference.
-
-
--   `**/README.md`: Markdown files that act as visual catalogs for the card images within their respective directories.
+    -   file contents will be saved into a no-sql database. make sure to follow `snake` naming convention (snake case).
 
 # Usage
 
