@@ -9,8 +9,9 @@ The primary purpose of this repository is to serve as a visual and data library 
 -   **Card Images:** A vast collection of credit, debit, and gift card images.
 -   **Image Grid:** `README.md` files within each issuer's directory provide a quick-glance view of the card images available for that issuer.
 -   **Documentation:**  `Details.md` files within each issuer's directory provide general info of cards.
--   **Database synchronization:** `serialization` folder contains serialized data of cards, which can be used for database reference.
+-   **Data synchronization:** `serialization` folder contains serialized data of cards, which can be used for database reference.
     -   file contents will be saved into a no-sql database. make sure to follow `snake` naming convention (snake case).
+    -   `serialization/schema.prisma` contains a database schema. JSON files that are generated should follow the schema. Read it before generating serializing JSON files.
 
 # Usage
 
