@@ -35,6 +35,7 @@
   { "id": "boa_premium_rewards", "issuerId": "boa", "productName": "Bank of America Premium Rewards", "network": "Visa", "annualFee": 95, "foreignTransactionFee": 0, "payment_instrument": "credit", "segment": "personal" },
   { "id": "boa_travel_rewards", "issuerId": "boa", "productName": "Bank of America Travel Rewards", "network": "Visa", "annualFee": 0, "foreignTransactionFee": 0, "payment_instrument": "credit", "segment": "personal" },
   { "id": "boa_unlimited_cash_rewards", "issuerId": "boa", "productName": "Bank of America Unlimited Cash Rewards", "network": "Visa", "annualFee": 0, "foreignTransactionFee": 0.03, "payment_instrument": "credit", "segment": "personal" },
+  
   { "id": "barclays_aadvantage_aviator_red", "issuerId": "barclays", "productName": "Barclays AAdvantage Aviator Red", "network": "Mastercard", "annualFee": 99, "foreignTransactionFee": 0, "payment_instrument": "credit", "segment": "personal" },
   { "id": "barclays_view", "issuerId": "barclays", "productName": "Barclays View", "network": "Mastercard", "annualFee": 0, "foreignTransactionFee": 0, "payment_instrument": "credit", "segment": "personal" },
   { "id": "barclays_breeze_airways", "issuerId": "barclays", "productName": "Barclays Breeze Airways", "network": "Mastercard", "annualFee": 89, "foreignTransactionFee": 0, "payment_instrument": "credit", "segment": "personal" },
@@ -45,6 +46,7 @@
   { "id": "barclays_wyndham_earner_plus", "issuerId": "barclays", "productName": "Barclays Wyndham Earner Plus", "network": "Mastercard", "annualFee": 75, "foreignTransactionFee": 0, "payment_instrument": "credit", "segment": "personal" },
   { "id": "barclays_aadvantage_aviator_business", "issuerId": "barclays", "productName": "Barclays AAdvantage Aviator Business", "network": "Mastercard", "annualFee": 95, "foreignTransactionFee": 0, "payment_instrument": "credit", "segment": "business" },
   { "id": "barclays_jetblue_business", "issuerId": "barclays", "productName": "Barclays JetBlue Business", "network": "Mastercard", "annualFee": 99, "foreignTransactionFee": 0, "payment_instrument": "credit", "segment": "business" },
+  
   { "id": "capitalone_quicksilver", "issuerId": "capitalone", "productName": "Capital One QuickSilver", "network": "Mastercard", "annualFee": 0, "foreignTransactionFee": 0, "payment_instrument": "credit", "segment": "personal" },
   { "id": "capitalone_venture_x", "issuerId": "capitalone", "productName": "Capital One Venture X", "network": "Visa", "annualFee": 395, "foreignTransactionFee": 0, "payment_instrument": "credit", "segment": "personal" },
   { "id": "capitalone_venture_x_business", "issuerId": "capitalone", "productName": "Capital One Venture X Business", "network": "Visa", "annualFee": 395, "foreignTransactionFee": 0, "payment_instrument": "credit", "segment": "business" },
@@ -118,5 +120,5 @@
   { "id": "wellsfargo_attune", "issuerId": "wellsfargo", "productName": "Wells Fargo Attune", "network": "Visa", "annualFee": 0, "foreignTransactionFee": 0, "payment_instrument": "credit", "segment": "personal" },
   { "id": "wellsfargo_bilt", "issuerId": "wellsfargo", "productName": "Bilt Mastercard", "network": "Mastercard", "annualFee": 0, "foreignTransactionFee": 0, "payment_instrument": "credit", "segment": "personal" },
   { "id": "wellsfargo_reflect", "issuerId": "wellsfargo", "productName": "Wells Fargo Reflect", "network": "Visa", "annualFee": 0, "foreignTransactionFee": 0.03, "payment_instrument": "credit", "segment": "personal" },
-  { "id": "wellsfargo_one_key_plus", "issuerId": "wellsfargo", "productName": "Wells Fargo One Key+", "network": "Mastercard", "annualFee": 99,.foreignTransactionFee: 0, "payment_instrument": "credit", "segment": "personal" }
+  { "id": "wellsfargo_one_key_plus", "issuerId": "wellsfargo", "productName": "Wells Fargo One Key+", "network": "Mastercard", "annualFee": 99, "foreignTransactionFee": 0, "payment_instrument": "credit", "segment": "personal" }
 ]
