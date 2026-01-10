@@ -8,7 +8,7 @@ from firebase_admin import credentials, firestore
 BASE_DIR = Path(__file__).resolve().parent
 
 # Fetch the service account key JSON file contents
-cred = credentials.Certificate('mrewards-firebase-adminsdk.json')
+cred = credentials.Certificate('serialization/mrewards-firebase-adminsdk.json')
 
 # Initialize the app with a service account, granting admin privileges
 firebase_admin.initialize_app(cred)
@@ -73,16 +73,23 @@ def refresh_benefits():
     total = _upsert_collection("benefits", records)
     print(f"benefits refreshed: {total} docs (cleared {removed}).")
 
-def refresh_card_benefits():
-    records = _load_json("card_benefits.json")
-    removed = _clear_collection("card_benefits")
-    total = _upsert_collection("card_benefits", records)
-    print(f"card_benefits refreshed: {total} docs (cleared {removed}).")
+def refresh_template_card_benefits():
+    records = _load_json("template_card_benefits.json")
+    removed = _clear_collection("template_card_benefits")
+    total = _upsert_collection("template_card_benefits", records)
+    print(f"template_card_benefits refreshed: {total} docs (cleared {removed}).")
+
+def refresh_template_cards():
+    records = _load_json("template_cards.json")
+    removed = _clear_collection("template_cards")
+    total = _upsert_collection("template_cards", records)
+    print(f"template_cards refreshed: {total} docs (cleared {removed}).")
 
 
 if __name__ == "__main__":
-    refresh_issuers()
-    refresh_cards()
-    refresh_card_faces()
+    # refresh_issuers()
+    # refresh_cards()
+    # refresh_template_cards()
+    # refresh_card_faces()
     refresh_benefits()
-    refresh_card_benefits()
+    # refresh_template_card_benefits()
