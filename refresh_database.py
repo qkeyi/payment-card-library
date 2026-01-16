@@ -93,9 +93,9 @@ def refresh_card_faces():
 
 
 if __name__ == "__main__":
-    # refresh_issuers()
-    # refresh_cards()
-    # refresh_template_cards()
+    refresh_issuers()
+    refresh_cards()
+    refresh_template_cards()
     refresh_card_faces()
-    # refresh_benefits()
-    # refresh_template_card_benefits()
+    refresh_benefits()
+    refresh_template_card_benefits()
