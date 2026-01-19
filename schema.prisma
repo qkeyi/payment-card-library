@@ -1,0 +1,144 @@
+// This schema is auto-generated based on the Room entities in the project.
+// It reflects the data model used in the application's local database.
+
+datasource db {
+  provider = "sqlite" // Room uses SQLite
+  url      = "file:./app_database.db"
+}
+
+generator client {
+  provider = "prisma-client-js" // Placeholder; not actually used in Android
+}
+
+model Issuer {
+  id   String @id
+  name String
+
+  cards Card[]
+
+  @@map("issuers")
+}
+
+model Card {
+  id                String            @id
+  issuerId          String            @map("issuer_id")
+  productName       String            @map("product_name")
+  faces             CardFace[]
+  network           CardNetwork       @default(Visa)
+  paymentInstrument PaymentInstrument @default(Credit) @map("payment_instrument")
+  segment           CardSegment       @default(Personal)
+  annualFee         Float             @map("annual_fee")
+
+  profileCards          ProfileCard[]
+  templateCards         TemplateCard[]
+  foreignTransactionFee Float          @default(0.00) @map("foreign_transaction_fee")
+
+  issuer Issuer @relation(fields: [issuerId], references: [id], onDelete: Cascade)
+
+  @@index([issuerId])
+  @@map("cards")
+}
+
+model TemplateCard {
+  id       String                @id
+  cardId   String                @map("card_id")
+  card     Card                  @relation(fields: [cardId], references: [id], onDelete: Cascade)
+  benefits TemplateCardBenefit[]
+
+  @@index([cardId])
+  @@map("template_cards")
+}
+
+model CardFace {
+  id        String  @id
+  remoteUrl String
+  localPath String?
+  isDefault Boolean @default(false)
+
+  card   Card?   @relation(fields: [cardId], references: [id])
+  cardId String?
+
+  @@map("card_faces")
+}
+
+
+model Benefit {
+  id                 String            @id @default(cuid()) @map("_id")
+  title              String?
+  type               BenefitType       @default(Credit)
+  amount             Float?            @map("amount")
+  cap                Float?            @map("cap")
+  frequency          BenefitFrequency
+  category           BenefitCategory[]
+  notes              String?
+
+  // Relations
+  notificationRules    NotificationRule[]
+  templateCardBenefits TemplateCardBenefit[]
+  profileCardBenefits  ProfileCardBenefit[]
+
+  @@map("benefits")
+}
+
+enum CardNetwork {
+  Visa
+  Mastercard
+  Discover
+  Amex
+}
+
+enum PaymentInstrument {
+  Credit
+  Debit
+  Charge
+}
+
+enum CardSegment {
+  Personal
+  Business
+}
+
+model TemplateCardBenefit {
+  id             String @id
+  templateCardId String @map("template_card_id")
+  benefitId      String @map("benefit_id")
+
+  templateCard TemplateCard @relation(fields: [templateCardId], references: [id], onDelete: Cascade)
+  benefit      Benefit      @relation(fields: [benefitId], references: [id], onDelete: Cascade)
+
+  @@unique([benefitId])
+  @@index([benefitId])
+  @@index([templateCardId])
+  @@map("template_card_benefits")
+}
+
+enum BenefitCategory {
+  Dining
+  OnlineShopping
+  Grocery
+  DrugStore
+  Travel
+  Gas
+  EVCharging
+  Streaming
+  Transit
+  Utilities
+  Others
+  RideShare
+  Supermarket
+  RetailStore
+}
+
+enum BenefitFrequency {
+  Monthly
+  Quarterly
+  SemiAnnually
+  Annually
+  EveryTransaction
+  EveryAnniversary
+}
+
+enum BenefitType {
+  Credit
+  Multiplier
+}
